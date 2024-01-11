@@ -23,4 +23,8 @@ this lua scripts will respawn your bot when falled out of bounds
 - problem: **Attempt to index nil with 'FindFirstChild'...**
 - solution: make sure you correctly changed humanoid name on line 2
 
+# reminder
+- example bot not included
+- subscribe to my channel
+
 thanks for using, quandie
