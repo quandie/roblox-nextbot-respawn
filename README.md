@@ -6,7 +6,7 @@ this lua scripts will respawn your bot when falled out of bounds
   
 ## configuring
 - place "retrypart" into workspace
- - you can move and resize it as you want, but dont rename it
+  - you can move and resize it as you want, but dont rename it
 - open "retry" SERVER script in retrypart
   - change humanoid name from "bot" to that one your bot has on line 2
 - place "bot_respawn" folder in workspace
