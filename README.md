@@ -16,8 +16,7 @@ this lua scripts will respawn your bot when falled out of bounds
 ## troubleshooting
 - problem: **bot_respawn is not a valid member of Workspace "Workspace"**
 - solution: make sure bot_respawn folder has "bot_respawn" name and it placed in workspace
- - if it wont work, open "retry" script under "retrypart" and change line 3 to this:
- - ``local spawnfolder = game.Workspace:WaitForChild("bot_respawn")``
+ - if it wont work, open "retry" script under "retrypart" and change line 3 to this: ``local spawnfolder = game.Workspace:WaitForChild("bot_respawn")``
  - if it ALSO didnt work, retry all steps or open an issue
 
 - problem: **Attempt to index nil with 'FindFirstChild'...**
