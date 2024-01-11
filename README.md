@@ -20,7 +20,7 @@ this lua scripts will respawn your bot when falled out of bounds
   - ```local spawnfolder = game.Workspace:WaitForChild("bot_respawn")```
 
 - problem: **Attempt to index nil with 'FindFirstChild'...**
-- solution: make sure you correctly changed humanoid name on line 2
+  - solution: make sure you correctly changed humanoid name on line 2
 
 ## reminder
 - example bot not included
